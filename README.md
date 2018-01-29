@@ -9,4 +9,7 @@ web crawler test
 增加数量统计、最高价格和最低价格  
 minPrice is not definded error  
 - 10:59PM, Jan 29th, 2018 @ dormitory  
-写成函数形式，解决 minPrice is not definded 的问题（原来是 P 的大小写手误）  
+写成函数形式  
+解决 minPrice is not definded 的问题（原来是 P 的大小写手误）  
+- 11.28PM, Jan 29th, 2018 @ dormitory  
+增加 txt 文件储存
